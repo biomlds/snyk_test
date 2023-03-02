@@ -1,1 +1,1 @@
-FROM openjdk:11-3.9.8
+FROM openjdk:19-3.9.8
